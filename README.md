@@ -26,14 +26,13 @@ This tool shows how a script can modify Snort 3 IPS rule actions.
 
   where: 
 
-  -p is the name of the IPS policy
+  -p    the name of the IPS policy, like TEST1
 
-  -f is the string of the filter
+  -f    the string of the filter, like 'lsp:lsp rel 20231213 1558' 
   
-Since there may be spaces in the filter, please use apostrophes at the beginning and end of the text, like 'lsp:lsp rel 20231213 1558' !  
+Since there may be spaces in the filter, please use apostrophes at the beginning and end of the text!  
 
     
+ -a    the name of the requested action, like ALERT, BLOCK, ...    
 
- -a the name of the requested action, like ALERT, BLOCK, ...    
-
- -v verbose for debugging
+ -v    verbose for debugging
