@@ -30,7 +30,7 @@ This tool shows how a script can modify Snort 3 IPS rule actions.
 
   -f is the string of the filter
   
-Since there may be spaces in the filter, please use apostrophes at the beginning and end of the text!  
+Since there may be spaces in the filter, please use apostrophes at the beginning and end of the text, like 'lsp:lsp rel 20231213 1558' !  
 
     
 
