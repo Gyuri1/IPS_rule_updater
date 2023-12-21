@@ -29,8 +29,11 @@ This tool shows how a script can modify Snort 3 IPS rule actions.
   -p is the name of the IPS policy
 
   -f is the string of the filter
+  
+  
+    Since there may be spaces in the filter, please use apostrophes at the beginning and end of the text!  
 
-     Since there may be spaces in the filter, please use apostrophes at the beginning and end of the text!  
+    
 
  -a the name of the requested action, like ALERT, BLOCK, ...    
 
