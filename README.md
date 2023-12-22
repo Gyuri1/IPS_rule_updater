@@ -15,7 +15,7 @@ This tool shows how a script can modify Snort 3 IPS rule actions.
   Please modify according to Your environment!  
 
    
-  This script will modify the the intrustion rules using the specified filter.  
+  This script will modify the the intrustion rules of an IPS policy using the specified filter.  
 
 
 # How to use:
