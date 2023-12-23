@@ -33,7 +33,7 @@ This tool shows how a script can modify Snort 3 IPS rule actions.
   
 Since there may be spaces in the filter, please use apostrophes at the beginning and end of the text!  
 In principle, all filters accepted by the FMC GUI can be used, as shown in the picture:
-![FMC IPS rule filter ](/images/filter.png)
+![FMC IPS rule filter ](filter.png)
     
  -a    the name of the requested action, like ALERT, BLOCK, ...    
 
